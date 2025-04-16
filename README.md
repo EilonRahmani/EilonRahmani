@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EilonRahmani
-  
 
   ⚙️ About Me:
 - 👀 I’m Currently looking for a student position in the fields of **chip design**, **PCB development**, or **R&D** — but I’m open to any role related to my studies and passions.
@@ -10,14 +9,12 @@
 - ⚡ Fun fact: 3D designing and printing custom models integrated with electronics is my thing now.
 - 🚀 Always eager to learn and explore new technologies.
 - 😄 Pronouns: standard male thing...
-  
 
   💻 Tech Stack:
 - Languages: C, Python.
 - Tools & Environments: MATLAB, Git, VS Code.
 - Interests: Hardware design, embedded systems, signal processing, 3D modeling + electronics.
   
-
  📫 Contact Me:
 - Email: eilonrah@gmail.com  
 - LinkedIn: www.linkedin.com/in/eilon-rahmani
